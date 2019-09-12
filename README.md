@@ -77,3 +77,9 @@ Get the resource by token
 ```
 curl -u your-token: http://127.0.0.1:5000/api/resource
 ```
+
+## References
+
+  * [RESTful Authentication with Flask](http://blog.miguelgrinberg.com/post/restful-authentication-with-flask)
+  * [flask-HTTPAuth](https://flask-httpauth.readthedocs.io/en/latest/)
+
